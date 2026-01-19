@@ -1,4 +1,5 @@
 package day01;
 
-public class HelloTirmizi {
+public class HelloTirmizi hihi {
+
 }
